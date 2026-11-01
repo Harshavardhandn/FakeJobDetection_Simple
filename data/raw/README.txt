@@ -1,0 +1,1 @@
+Put EMSCAD here as fake_job_postings.csv and Naukri data as naukri_jobs.csv. Data files are not bundled.
